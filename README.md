@@ -2,6 +2,7 @@
 
 # Hello, I'm KyungHo Kim, a developer who's growing every day!
 
+| period | title | corps |
 | --- | --- | --- |
 | 2021.02 - 2022.08 | CEO | 2816 Corps. |
 | 2022.07 - 2024.07 | CTO | 주식회사 알을깨는사람들 |
