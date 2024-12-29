@@ -17,9 +17,12 @@
   - ![Static Badge](https://img.shields.io/badge/pytest-20232a.svg?style=for-the-badge&logo=pytest)
   - ![Static Badge](https://img.shields.io/badge/pytorch-20232a.svg?style=for-the-badge&logo=pytorch)
   - ![Static Badge](https://img.shields.io/badge/fastapi-20232a.svg?style=for-the-badge&logo=fastapi)
+---
 ![Static Badge](https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&)
   - ![Static Badge](https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&)
+---
 ![Static Badge](https://img.shields.io/badge/svelte-20232a.svg?style=for-the-badge&logo=svelte&)
+---
 ![Static Badge](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&)
 ![Static Badge](https://img.shields.io/badge/kubernetes-20232a.svg?style=for-the-badge&logo=kubernetes&)
 ![Static Badge](https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&)
