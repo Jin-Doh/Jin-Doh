@@ -2,6 +2,10 @@
 
 <h3 align="center">Hello, I'm KyungHo Kim who's growing every day!</h3>
 
+<div align="center">
+  Love Coffee chat, just contact me via e-mail!
+</div>
+
 <table align="center">
   <tr>
     <td width="50%">
@@ -12,10 +16,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  Love Coffee chat, just contact me via e-mail!
-</div>
 
 <table align="center">
   <tr>
