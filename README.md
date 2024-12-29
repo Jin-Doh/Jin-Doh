@@ -9,7 +9,6 @@
 </div>
 
 <br>
-
 <table align="center">
   <tr>
     <td>
@@ -22,7 +21,7 @@
 </table>
 
 <br>
-
+## Careers
 <table align="center">
   <tr>
     <th>period</th>
@@ -51,6 +50,7 @@
   </tr>
 </table>
 
+<br>
 ## Skills
 <table>
 <tr>
