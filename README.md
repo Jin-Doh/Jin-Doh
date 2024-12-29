@@ -7,7 +7,7 @@
   <br>
   and surely Coffee chat too, just contact me via e-mail!
 </div>
-
+<br><br>
 <table align="center">
   <tr>
     <td>
