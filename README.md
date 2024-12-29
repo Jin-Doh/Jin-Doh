@@ -2,7 +2,7 @@
 
 <h3 align="center">Hello, I'm KyungHo Kim who's growing every day!</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       PyPi: <a href="https://pypi.org/user/Jin-Doh/">PyPi/Jin-Doh</a>
