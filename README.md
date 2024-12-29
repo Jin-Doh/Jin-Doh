@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20I%27m%20Jin-Doh!)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20I%27m%20Jin-Doh!&fontColor=F3F6FB&fontSize=40)
 
 <h3 align="center">Hello, I'm KyungHo Kim who's growing every day!</h3>
 
