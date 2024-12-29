@@ -3,7 +3,8 @@
 <h3 align="center">Hello, I'm KyungHo Kim who's growing every day!</h3>
 
 <div align="center">
-  Love Coffee chat, just contact me via e-mail!
+  I Love Backend, MLOps, DevOps, Cloud, and all of interesting things,
+  and surely Coffee chat too, just contact me via e-mail!
 </div>
 
 <table align="center">
