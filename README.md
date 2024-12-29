@@ -8,10 +8,10 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td>
       PyPi: <a href="https://pypi.org/user/Jin-Doh/">PyPi/Jin-Doh</a>
     </td>
-    <td width="50%">
+    <td>
       Projects: <a href="https://kyungho.info">Portfolio</a>
     </td>
   </tr>
