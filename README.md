@@ -1,19 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20I%27m%20Jin-Doh!)
 
-# Hello, I'm KyungHo Kim,
-# a developer who's growing every day!
+<h3 align="center>Hello, I'm KyungHo Kim who's growing every day!</h3>
 
-- PyPi: [PyPi/Jin-Doh](https://pypi.org/user/Jin-Doh/)
-- Home: [Porfolio](https://kyungho.info)
+<table>
+  <tr>
+    <td width="50%">
+      PyPi: [PyPi/Jin-Doh](https://pypi.org/user/Jin-Doh/)
+    </td>
+    <td width="50%">
+      Projects: [Porfolio](https://kyungho.info)
+    </td>
+  </tr>
+</table>
 
-Love Coffee chat, just contact me via e-mail!
+<div align="center">
+  Love Coffee chat, just contact me via e-mail!
+</div>
 
-| period | title | corps |
-| --- | --- | --- |
-| 2021.02 - 2022.08 | CEO | 2816 Corps. |
-| 2022.07 - 2024.07 | CTO | 주식회사 알을깨는사람들 |
-| 2024.04 - 2024.12 | FullStack | Freelancer Developer |
-| 2024.12 -         | Backend Engineer | @Smartmind-team |
+<div align="center">
+  | period | title | corps |
+  | --- | --- | --- |
+  | 2021.02 - 2022.08 | CEO | 2816 Corps. |
+  | 2022.07 - 2024.07 | CTO | 주식회사 알을깨는사람들 |
+  | 2024.04 - 2024.12 | FullStack | Freelancer Developer |
+  | 2024.12 -         | Backend Engineer | @Smartmind-team |
+</div>
 
 ## Skills
 <table>
