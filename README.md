@@ -47,7 +47,7 @@
   <tr>
     <td>2024.12 -</td>
     <td>Backend Engineer</td>
-    <td>@Smartmind-team</td>
+    <td>[@smartmind-team](https://github.com/smartmind-team)</td>
   </tr>
 </table>
 
