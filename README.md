@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hello,%I%27m%Jin-Doh!)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20I%27m%20Jin-Doh!)
 
 # Hello, I'm KyungHo Kim,
 # a developer who's growing every day!
@@ -14,8 +14,17 @@
 | 2024.12 -         | Backend Engineer | @Smartmind-team |
 
 ## Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-doh&layout=compact)
+<div style="display: flex; align-items: start; gap: 20px;">
 
+<div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-doh&layout=donut-vertical)
+
+</div>
+
+<div>
+
+## Skills
 ![Static Badge](https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/poetry-20232a.svg?style=for-the-badge&logo=poetry)
 ![Static Badge](https://img.shields.io/badge/pytest-20232a.svg?style=for-the-badge&logo=pytest)
@@ -32,6 +41,10 @@
 ![Static Badge](https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&)
 ![Static Badge](https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&)
 ![Static Badge](https://img.shields.io/badge/gitlab-20232a.svg?style=for-the-badge&logo=gitlab&)
+
+</div>
+
+</div>
 
 <!--
 **Jin-Doh/Jin-Doh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
