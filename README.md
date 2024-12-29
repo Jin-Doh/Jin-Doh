@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20I%27m%20Jin-Doh!)
 
-<h3 align="center>Hello, I'm KyungHo Kim who's growing every day!</h3>
+<h3 align="center">Hello, I'm KyungHo Kim who's growing every day!</h3>
 
 <table>
   <tr>
     <td width="50%">
-      PyPi: [PyPi/Jin-Doh](https://pypi.org/user/Jin-Doh/)
+      PyPi: <a href="https://pypi.org/user/Jin-Doh/">PyPi/Jin-Doh</a>
     </td>
     <td width="50%">
-      Projects: [Porfolio](https://kyungho.info)
+      Projects: <a href="https://kyungho.info">Portfolio</a>
     </td>
   </tr>
 </table>
@@ -17,14 +17,33 @@
   Love Coffee chat, just contact me via e-mail!
 </div>
 
-<div align="center">
-  | period | title | corps |
-  | --- | --- | --- |
-  | 2021.02 - 2022.08 | CEO | 2816 Corps. |
-  | 2022.07 - 2024.07 | CTO | 주식회사 알을깨는사람들 |
-  | 2024.04 - 2024.12 | FullStack | Freelancer Developer |
-  | 2024.12 -         | Backend Engineer | @Smartmind-team |
-</div>
+<table align="center">
+  <tr>
+    <th>period</th>
+    <th>title</th>
+    <th>corps</th>
+  </tr>
+  <tr>
+    <td>2021.02 - 2022.08</td>
+    <td>CEO</td>
+    <td>2816 Corps.</td>
+  </tr>
+  <tr>
+    <td>2022.07 - 2024.07</td>
+    <td>CTO</td>
+    <td>주식회사 알을깨는사람들</td>
+  </tr>
+  <tr>
+    <td>2024.04 - 2024.12</td>
+    <td>FullStack</td>
+    <td>Freelancer Developer</td>
+  </tr>
+  <tr>
+    <td>2024.12 -</td>
+    <td>Backend Engineer</td>
+    <td>@Smartmind-team</td>
+  </tr>
+</table>
 
 ## Skills
 <table>
