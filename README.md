@@ -6,6 +6,8 @@
 - PyPi: [PyPi/Jin-Doh](https://pypi.org/user/Jin-Doh/)
 - Home: [Porfolio](https://kyungho.info)
 
+Love Coffee chat, just contact me via e-mail!
+
 | period | title | corps |
 | --- | --- | --- |
 | 2021.02 - 2022.08 | CEO | 2816 Corps. |
@@ -14,17 +16,15 @@
 | 2024.12 -         | Backend Engineer | @Smartmind-team |
 
 ## Skills
-<div style="display: flex; align-items: start; gap: 20px;">
-
-<div>
+<table>
+<tr>
+<td width="40%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-doh&layout=donut-vertical)
 
-</div>
+</td>
+<td width="60%">
 
-<div>
-
-## Skills
 ![Static Badge](https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/poetry-20232a.svg?style=for-the-badge&logo=poetry)
 ![Static Badge](https://img.shields.io/badge/pytest-20232a.svg?style=for-the-badge&logo=pytest)
@@ -42,21 +42,6 @@
 ![Static Badge](https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&)
 ![Static Badge](https://img.shields.io/badge/gitlab-20232a.svg?style=for-the-badge&logo=gitlab&)
 
-</div>
-
-</div>
-
-<!--
-**Jin-Doh/Jin-Doh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+</tr>
+</table>
