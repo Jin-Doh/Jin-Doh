@@ -21,7 +21,7 @@
 </table>
 
 <br>
-<h4>Careers</h4>
+<h3>Careers</h3>
 <table align="center">
   <tr>
     <th>period</th>
@@ -51,7 +51,7 @@
 </table>
 
 <br>
-<h4>Skills</h4>
+<h3>Skills</h3>
 <table>
 <tr>
 <td width="40%">
