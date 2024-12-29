@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Hello,%I%27m%Jin-Doh!)
 
-# Hello, I'm KyungHo Kim, a developer who's growing every day!
+# Hello, I'm KyungHo Kim,
+# a developer who's growing every day!
+
+- PyPi: [PyPi/Jin-Doh](https://pypi.org/user/Jin-Doh/)
+- Home: [Porfolio](https://kyungho.info)
 
 | period | title | corps |
 | --- | --- | --- |
@@ -8,8 +12,6 @@
 | 2022.07 - 2024.07 | CTO | 주식회사 알을깨는사람들 |
 | 2024.04 - 2024.12 | FullStack | Freelancer Developer |
 | 2024.12 -         | Backend Engineer | @Smartmind-team |
-
-[![Static Badge](https://img.shields.io/badge/pypi-20232a.svg?style=for-the-badge&logo=pypi)](https://pypi.org/user/Jin-Doh/)
 
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-doh&layout=compact)
