@@ -56,7 +56,7 @@
 <tr>
 <td width="40%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-doh&layout=donut-vertical&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-doh&layout=donut-vertical&langs_count=8&theme=dark)
 
 </td>
 <td width="60%">
