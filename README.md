@@ -1,38 +1,36 @@
-# Hao (Jin-Doh)
+# Kyungho Kim (Jin-Doh)
 
-Product Engineer — Sugarcube Networks (Apr 2025 – Present)  
-I lead and operate infrastructure-backed products in production, with a focus on platform design, secure service delivery, and predictable operations.  
-Currently building and refining VM/GPU hosting workflows, hardening internal control paths, and turning operational complexity into systems that are easier to run, recover, and trust.
+<div align="center">
 
-![Role](https://img.shields.io/badge/Role-Product_Engineer-222222?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Platform%20%26%20Infra-222222?style=flat-square)
-![Delivery](https://img.shields.io/badge/Focus-Secure%20Service%20Delivery-222222?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-VM%20%2F%20GPU%20Hosting-222222?style=flat-square)
+**Forward Deployed Engineer · DevOps & AI Platform**<br>
+Technical Manager at SugarCube Networks · Seoul, South Korea
+
+I turn ambiguous AI and infrastructure needs into deployable tools, reliable platforms, and explicit operating paths.
+
+[Portfolio](https://kyungho.info) · [Resume](https://pages.kyungho.info/hao/resume/) · [E-mail](mailto:support@kyungho.info)
+
+</div>
 
 ---
 
-## About
-
-- I care about reliability, operability, and security-by-default.
-- I like systems that are observable, reproducible, and quickly recoverable.
-- I reduce ambiguity with runbooks, checklists, and crisp working agreements.
-- I treat delivery, rollback, secrets, networking, and access control as part of product quality.
-
 ## What I do
 
-- Lead production-facing projects from architecture and implementation to rollout and operational hardening.
-- Build and operate platform-heavy services with clear boundaries, controlled access, and practical recovery paths.
-- Turn customer and operational pain into concrete engineering priorities without losing sight of maintainability.
-- Prefer quality gates, runbooks, and repeatable workflows over fragile heroics.
+- Work with users and operators to turn incomplete requests into explicit workflows and system boundaries.
+- Build across applications, control planes, delivery, identity, and observability when the operating path requires it.
+- Treat readiness, rollback, and recovery as part of product behavior—not as work left until after release.
 
-## Current areas
+## Selected work
 
-- VM hosting
-- GPU hosting
-- Secure internal tooling
-- Operational hardening
+- **StreamGPU — FDE · AI Platform:** Took a physical GPU rental idea through BMC and Docker validation to a Xen-based production service, connecting product discovery, implementation, release, and operations.
+- **Market Auditor — FDE · Operator Tooling:** Turned a merchandiser's manual marketplace investigation into a workflow that separates read-only audits, operator approval, safe corrections, and post-write verification.
+- **Platform Foundations — DevOps:** Built shared OIDC, self-hosted CI runners, registry-based delivery, canary and recovery gates, and centralized Prometheus, Loki, and Grafana operations.
+- **[Traceknot](https://github.com/Jin-Doh/traceknot) — Developer Experience:** An evidence-bound QA framework that connects coding-agent completion claims to executable evidence and deterministic verdicts.
 
-## Links
+## Background
 
-- E-mail: mailto:qqaa3030@gmail.com
-- GitHub: https://github.com/jin-doh
+- Previously worked as a Senior AI Engineer on an on-premises security-alert classification and serving system.
+- Co-founded a Voice AI company and led its product application, data pipeline, GPU infrastructure, and operating environment.
+
+## Languages
+
+Korean — Native · English — Conversational · Mandarin Chinese — Conversational
